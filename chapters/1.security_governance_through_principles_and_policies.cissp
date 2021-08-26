@@ -1,0 +1,55 @@
+Security Governance Through Principles and Policies
+
+The CISSP exam topics covered in this chapter include:
+
+Domain 1: Security and Risk Management (Security, Risk, Compliance, Law, Regulations, Business Continuity)
+
+A. Understand and apply concepts of confidenciality, integrity and availability
+B. Apply security governance principles through:
+B.1 Alignment of security function to strategy, goals, mission, and objetives (e.g., business case, budget and resources)
+B.2 Organizational processes (e.g., acquisitions, divestitures, governance committees)
+B.3 Security roles and responsibilities
+B.4 Control frameworks
+B.5 Due care
+B.6 Due diligence
+
+F. Develop and implement documented security policy, standards, procedures and guidelines
+
+J. Understand and apply threat modeling
+J.1 Identifying threats (e.g. adversaries, contractors, employees, trusted partners)
+J.2 Determining and diagramming potential attacks (e.g., social enginering, spoofing)
+J.3 Performing reduction analysis
+J.4 Technologies and processes to remediate threats (e.g., software architecture and operations)
+
+K. Integrate security risk considerations into acquisitions strategy and practice
+K.1 Hardware, software and services
+K.2 Third-party assessment and monitoring (e.g., on-site assessment, documente exchange and review, process/policy review)
+K.3 Minimun security requirements
+K.4 Service-level requirements
+
+The Security and Risk Management domain of the Common Body of Knowledge (CBK) for the CISSP certification exam deals with many of the foundational elements of security solutions. These include elements essential to the design, implementation, and administration of security mechanisms. Additional elements of this domainare discussed in various chapters: Chapter 2, "Personal Security and Risk Management Concepts"; Chapter 3, "Business Continuity Planning"; and Chapter 4, "Laws, Regulations and Compliance." Please be sure to review all of these chapters to have a complete perspective on the topics of this domain.
+
+* Understand and Apply Concepts of Confidenciality, Integrity, and Availability
+
+Security management concepts and principles are inherent elements in a security and solution deployment. They define the basic parameters needed for a secure environment. They also define the goals and objectives that both policy designers and system implementers must achieve to create a secure solution. It is important for real-world security professionals, as well as CISSP exam students, to understand these items thorougly.
+
+The primary goals and objetives of security are contained within the CIA Triad (see Figure 1.1), which is the name given to the three primary security princples:
+
+Figure 1.1 The CIA Triad
+
+---
+
+* Confidentiality
+* Integrity
+* Availability
+
+Security controls are typically evaluated on how well they address these core information security tenets. Overall, a complete security solution should adequately address each of these tenets. Overall, a complete security solution should adequately address each of tenets. Vulnerabilities and risk are also evaluated based on the threat they pose against one or more of the CIA Triad principles. Thus, it is a good idea to be familiar with these principles and use them as guidelines for judging all things related to security.
+
+* Confidenciality
+The first principle of the CIA Triad is confidenciality. If a security mechanism offers confidencialty, it offers a high level of assurance that data, obects, or resources are restricted from unauthorized subjects. If a threat exists against confidenciality, unauthorized disclosure could take place.
+
+In general, for confidenciality to be maintained on a network, data must be protected from unauthorized access, use, or disclosure while in storage, in process, and in transit. Unique and specific security controls are required for each of these states of data, resources, and objects to maintain confidenciality.
+
+Numerous attacks focus on the violation of confidenciality. These include capturing network traffic and stealing password files as well as social engineering, port scanning, shoulder surfing, eavesdropping, sniffing, and so on.
+
+Violations of confidenciality are not limited to directed intentional attacks. Many instances of unauthorized disclosure of sensitive of confidential information are the result of human error.
